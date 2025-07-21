@@ -19,7 +19,7 @@ I'm a versatile developer from Iran, obsessed with creating immersive gaming mod
 - 🌱 **Learning**: Advanced WebGL, React 19, and cloud-native game development.
 - 👯 **Open to Collaborate On**: Open-source gaming projects, web apps, or innovative bot frameworks.
 - 💬 **Ask Me About**: Game modding, bot automation, or building scalable web platforms.
-- 📫 **Reach Me**: Email at [owner@codeepic.ir](mailto:owner@codeepic.ir) or join my [Discord](https://discord.gg/TheEsmaeil1).
+- 📫 **Reach Me**: Email at [owner@iNeoPlus.ir](mailto:owner@iNeoPlus.ir) or join my [Discord](https://discord.gg/TheEsmaeil1).
 - ⚡ **Fun Fact**: I once coded a game mod in 48 hours for a hackathon—and it went viral!
 
 ## 🏆 Achievements
@@ -106,7 +106,7 @@ I'm a versatile developer from Iran, obsessed with creating immersive gaming mod
   <a href="https://instagram.com/theesmaeil1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
   <a href="https://www.youtube.com/c/theesmaeil1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
   <a href="https://discord.gg/TheEsmaeil1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" /></a>
-  <a href="mailto:owner@codeepic.ir"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="50" /></a>
+  <a href="mailto:owner@iNeoPlus.ir"><img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="50" /></a>
 </p>
 
 ## 💡 Favorite Quote
