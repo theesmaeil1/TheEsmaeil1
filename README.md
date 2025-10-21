@@ -52,7 +52,6 @@ I'm a versatile developer from Iran, obsessed with creating immersive gaming mod
 
 ### Game Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-2023-000000?logo=unity" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-9.0-239120?logo=c-sharp" alt="C#" />
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python" alt="Python" />
 </p>
@@ -60,7 +59,6 @@ I'm a versatile developer from Iran, obsessed with creating immersive gaming mod
 ### Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma" alt="Figma" />
 </p>
 
