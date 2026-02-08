@@ -2,6 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Esmaeil%20%7C%20Full-Stack%20Developer%20%26%20Automation%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Automation+Engineer;Bot+Architect;Remote+%7C+US+%26+EU+Ready" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theesmaeil1&theme=react-dark&hide_border=true" />
+</p>
+
 <h1 align="center">👨‍💻 Esmaeil</h1>
 <h3 align="center">
 Full-Stack Web Developer • Automation Engineer • Bot Architect<br/>
