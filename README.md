@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Esmaeil%20%7C%20Full-Stack%20Developer%20%26%20Automation%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn](https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Automation+Engineer;Bot+Architect;Remote+%7C+US+%26+EU+Ready" />
